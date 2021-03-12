@@ -81,3 +81,4 @@ for i in range(n):
     imshow_scatter(start_points[i], color="green")
     imshow_scatter(end_point, color="red")
 
+plt.show()
