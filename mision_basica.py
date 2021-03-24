@@ -5,6 +5,7 @@
 
 
 import numpy as np
+import matplotlib.pyplot as plt
 from cpp_algorithms import dist_fill
 from cpp_algorithms import darp, stc, bcd, wavefront
 from cpp_algorithms import get_drone_map, get_random_coords
